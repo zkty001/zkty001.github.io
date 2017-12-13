@@ -17,8 +17,8 @@ window.onload = function() {
         companyname: "中科天宇软件有限公司",
         certlevel: "项目经理",
         certificateno: "311121342",
-        avaidtime: "2016-12-26",
-        approvetime: "2020-12-25",
+        avaidtime: "2020-12-25",
+        approvetime: "2016-12-26",
         areacn: "北京市",
         remarks: "已登记"
     };
